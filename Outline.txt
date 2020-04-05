@@ -1,0 +1,20 @@
+Fetures the program should have listed in order of importance
+
+High Priority------------------------------------------------
+Search,Upload,Link videos
+add videos to a queue in the rooms
+Sync videos in rooms  so users can watch  videos together.
+user profiles and registration
+Ability to make  public or private rooms and invite users to join and watch together
+Have a chat box in rooms to communicate with other users
+friends list to make it easy to invite users to the rooms
+ability to play premade playlists of videos in sync with others
+
+
+Low Priority-------------------------------------------------
+recommendation page of videos based on your video viewing habits,  on the homepage
+ability to subscribe to users
+ability to tag videos
+ability to like,dislike and comment on videos
+download videos
+turn autoplay queues on/off in rooms.~
